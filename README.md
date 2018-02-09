@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 
 Where:
-- country: should be the 2 character [ISO_3166-1 style] (http://en.wikipedia.org/wiki/ISO_3166-1)
+- country: should be the 2 character [ISO_3166-1 style](http://en.wikipedia.org/wiki/ISO_3166-1)
 - count: the number of top sites to fetch
 - secret: secret access key from your AWS account
 - key: access key id from your AWS account
