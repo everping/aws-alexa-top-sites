@@ -32,7 +32,7 @@ Results will be:
 2. [Create an IAM user](https://console.aws.amazon.com/iam/home?region=us-east-1#/users$new?step=details)
 3. [Create a Customer Managed Policy](https://console.aws.amazon.com/iam/home?region=us-west-2#/policies$new?step=edit)
     - Select the JSON tab in the Policy Editor
-    - If the following message box appears, you may safely close it. We are working to remove this false warning message.
+    - If the following message box appears, you may safely close it.
         ![Policy](https://docs.aws.amazon.com/AlexaTopSites/latest/images/policy.jpg)
 
     - Paste the following in the editor window.
