@@ -1,5 +1,5 @@
 ## Introduction
-A Python script to fetch the top sites from for a particular country. It uses AWS Alexa Top Sites Service, so you have to register a AWS account before using.
+A Python script to fetch the top sites from for a particular country. It uses AWS Alexa Top Sites Service, so you have to register an AWS account before using.
 
 
 ## Requirements
