@@ -68,3 +68,5 @@ Results will be:
 [1] https://docs.aws.amazon.com/AlexaTopSites/latest/
 
 [2] https://aws.amazon.com/alexa-top-sites/
+
+[3] https://secaholic.com/a-python-script-get-alexa-top-sites-4652768dfa96
