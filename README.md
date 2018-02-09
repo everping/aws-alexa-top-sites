@@ -36,22 +36,22 @@ Results will be:
 ![Policy](https://docs.aws.amazon.com/AlexaTopSites/latest/images/policy.jpg)
 
     - Paste the following in the editor window.
-```json
-{
-    "Version": "2012-10-17",
-    "Statement": [
+        ```json
         {
-            "Effect": "Allow",
-            "Action": [
-                "AlexaTopSites:GET"
-            ],
-            "Resource": [
-                "*"
+            "Version": "2012-10-17",
+            "Statement": [
+                {
+                    "Effect": "Allow",
+                    "Action": [
+                        "AlexaTopSites:GET"
+                    ],
+                    "Resource": [
+                        "*"
+                    ]
+                }
             ]
         }
-    ]
-}
-```                       
+        ```                       
     - Click Review Policy. In the Review Policy window, assign a Name to the policy and Click Create Policy.
 
     - The following warning message can be safely ignored.
