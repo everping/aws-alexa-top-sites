@@ -33,7 +33,7 @@ Results will be:
 3. [Create a Customer Managed Policy](https://console.aws.amazon.com/iam/home?region=us-west-2#/policies$new?step=edit)
     - Select the JSON tab in the Policy Editor
     - If the following message box appears, you may safely close it. We are working to remove this false warning message.
-![Policy](https://docs.aws.amazon.com/AlexaTopSites/latest/images/policy.jpg)
+        ![Policy](https://docs.aws.amazon.com/AlexaTopSites/latest/images/policy.jpg)
 
     - Paste the following in the editor window.
         ```json
@@ -56,9 +56,9 @@ Results will be:
 
     - The following warning message can be safely ignored.
 
-![Policy Warning](https://docs.aws.amazon.com/AlexaTopSites/latest/images/polwarn1.jpg)
+        ![Policy Warning](https://docs.aws.amazon.com/AlexaTopSites/latest/images/polwarn1.jpg)
 
-![Policy Warning](https://docs.aws.amazon.com/AlexaTopSites/latest/images/polwarn2.jpg)
+        ![Policy Warning](https://docs.aws.amazon.com/AlexaTopSites/latest/images/polwarn2.jpg)
 
 4. Assign the previous execution policy for the service to the user created above.
 
