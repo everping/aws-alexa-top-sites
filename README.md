@@ -26,7 +26,7 @@ Results will be:
 - printed to the screen with format: `Ranking Domain`
 - saved to a json file (top_alexa.json) with format `{"1": "google.com", ...}`
 
-## How to get access key and secret key
+## How to get an access key and a secret key
 
 1. Sign up for an Amazon AWS account at [https://aws.amazon.com/](https://aws.amazon.com/).
 2. [Create an IAM user](https://console.aws.amazon.com/iam/home?region=us-east-1#/users$new?step=details)
